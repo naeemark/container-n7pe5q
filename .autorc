@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "naeemark",
+  "repo": "container-n7pe5q",
+  "name": "naeemark",
+}
